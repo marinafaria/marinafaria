@@ -17,7 +17,7 @@ I’m currently working on a Pokedéx as a personal web project! I use RxJS and 
 ![Pokedex Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5dzN5czRzc2FwcmMwbnp0NHRpODlnaXUwemNpZGpyem41aXp4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RsNO7pOJyTwc42G2Ea/giphy.gif)
 
 ### ✨ GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinafaria&layout=compact&theme=dracula)](https://github.com/marinafaria/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinafaria&layout=compact&theme=dracula&exclude_repo=intro-data-science,TP2_AEDsII)](https://github.com/marinafaria/github-readme-stats)
 <!--![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinafaria&show_icons=true&theme=dracula) -->
 
 <!--
